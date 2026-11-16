@@ -1,0 +1,9 @@
+{
+  "name": "lobechat-plugin-17track",
+  "version": "0.1.0",
+  "private": true,
+  "description": "LobeChat plugin: 17TRACK cross-border e-commerce order tracking (2900+ carriers)",
+  "scripts": {
+    "serve": "npx serve public"
+  }
+}

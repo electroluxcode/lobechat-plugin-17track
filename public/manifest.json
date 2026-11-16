@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_model": "seventeen_track",
+  "name_for_human": "17TRACK Order Tracking",
+  "description_for_model": "Track cross-border e-commerce parcels across 2900+ carriers via the official 17TRACK Tracking API. Register tracking numbers for automatic tracking, query tracking details, list shipments, check account quota, and manage the tracking lifecycle (stop/restart/delete/push/change carrier).",
+  "description_for_human": "Track parcels across 2900+ carriers (China Post, DHL, FedEx, UPS, USPS, Yanwen, Cainiao, etc.) via 17TRACK.",
+  "auth": {
+    "type": "user_http"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://raw.githubusercontent.com/electroluxcode/lobechat-plugin-17track/main/public/openapi.json",
+    "is_user_authenticated": true
+  },
+  "contact_email": "3451613934@qq.com",
+  "legal_info_url": "https://www.17track.net/",
+  "logo_url": "https://res.17track.net/global-v2/imgs/oauth_image/apple_touch_152x152.png"
+}
