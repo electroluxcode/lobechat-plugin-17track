@@ -2,7 +2,7 @@
 
 [LobeChat](https://github.com/lobehub/lobe-chat) function plugin for
 [17TRACK](https://www.17track.net/) — cross-border e-commerce order tracking for
-2900+ carriers (China Post, DHL, FedEx, UPS, USPS, Yanwen, Cainiao, etc.).
+3500+ carriers (China Post, DHL, FedEx, UPS, USPS, Yanwen, Cainiao, etc.).
 
 ## Files
 

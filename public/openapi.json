@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "17TRACK Order Tracking",
-    "description": "Cross-border e-commerce order tracking for 2900+ carriers with automatic status updates",
+    "description": "Cross-border e-commerce order tracking for 3500+ carriers with automatic status updates",
     "version": "0.1.0"
   },
   "servers": [

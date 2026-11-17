@@ -2,8 +2,8 @@
   "schema_version": "v1",
   "name_for_model": "seventeen_track",
   "name_for_human": "17TRACK Order Tracking",
-  "description_for_model": "Track cross-border e-commerce parcels across 2900+ carriers via the official 17TRACK Tracking API. Register tracking numbers for automatic tracking, query tracking details, list shipments, check account quota, and manage the tracking lifecycle (stop/restart/delete/push/change carrier).",
-  "description_for_human": "Track parcels across 2900+ carriers (China Post, DHL, FedEx, UPS, USPS, Yanwen, Cainiao, etc.) via 17TRACK.",
+  "description_for_model": "Track cross-border e-commerce parcels across 3500+ carriers via the official 17TRACK Tracking API. Register tracking numbers for automatic tracking, query tracking details, list shipments, check account quota, and manage the tracking lifecycle (stop/restart/delete/push/change carrier).",
+  "description_for_human": "Track parcels across 3500+ carriers (China Post, DHL, FedEx, UPS, USPS, Yanwen, Cainiao, etc.) via 17TRACK.",
   "auth": {
     "type": "user_http"
   },
